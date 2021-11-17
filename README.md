@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Pyth0nX
 - 👀 I’m interested in Coding, playing video games and making them!
-- 🌱 I’m currently learning about Coding.
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me, you don't
+- 📫 How to reach me?
+- You don't...
 
 <!---
 Pyth0nX/Pyth0nX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
