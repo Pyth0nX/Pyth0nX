@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pyth0nX
 - 👀 I’m interested in Coding, playing video games and making them!
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# & C++
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me?
 - You don't...
